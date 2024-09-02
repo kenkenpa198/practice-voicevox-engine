@@ -23,4 +23,4 @@ curl -s \
 
 ## Reference
 
-- [VOICEVOX/voicevox_engine](https://github.com/VOICEVOX/voicevox_engine#docker-イメージ)
+- [VOICEVOX/voicevox_engine > Docker イメージ](https://github.com/VOICEVOX/voicevox_engine#docker-イメージ)
